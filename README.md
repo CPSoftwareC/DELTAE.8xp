@@ -20,7 +20,7 @@
 
 <h3>Como instalar</h3>
 
-<p>Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
+<p>Para colocar o programa na calculadora necessitas do software da Texas Instruments, TI Connect™ CE. <a target="_blank" href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
 <ol>
      <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
      <li>Envia o <em>DELTAE.8xp</em></li>
