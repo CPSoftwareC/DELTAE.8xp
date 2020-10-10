@@ -1,9 +1,9 @@
-<!-- README.md Versão 1.0 -->
+<!-- README.md Versão 1.1 -->
 <h1>Prgm DELTAE</h1>
 
 <h3>Biografia</h3>
 
-<p>Desenvolvido em TI-BASIC. Programa sobre a entalpia (delta) da Energia de transição dos eletrões entre os níveis de um elemento (marioritariamente das vezes sobre o átomo de hidrogénio). Usado para auxiliar no estudo da "Energia dos eletrões nos átomos", Química de 10º ano.</p>
+<p>Desenvolvido em TI-BASIC. Programa sobre a variação (delta) da Energia de transição dos eletrões entre os níveis de um elemento (marioritariamente das vezes sobre o átomo de hidrogénio). Usado para auxiliar no estudo da "Energia dos eletrões nos átomos", Química de 10º ano.</p>
 
 <h2>Versão <em><strong>2.9</strong></em></h2>
 
